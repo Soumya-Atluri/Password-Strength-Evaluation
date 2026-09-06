@@ -10,9 +10,9 @@ To understand the factors that make a password strong, evaluate different passwo
 
 | Password           | Strength    | Found in Leaks | Observations                                                  |
 | ------------------ | ----------- | -------------: | ------------------------------------------------------------- |
-| `hira`             | Very Weak ❌ |    2,086 times | Common name, short, all lowercase letters                     |
+| `hira`             | Very Weak ❌ |    2,137 times | Common name, short, all lowercase letters                     |
 | `hira44`           | Weak ⚠️     |       11 times | Slightly stronger with digits, still short and predictable    |
-| `Hlra@44`          | Medium ⚠️   |        0 times | Mixed case + symbol + digit, but too short                    |
+| `Hlra@44`          | Medium ⚠️   |        2 times | Mixed case + symbol + digit, but too short                    |
 | `Hira_hi_@look#44` | Strong ✅    |        0 times | Long, complex, strong character mix, not found in leaked data |
 
 ---
