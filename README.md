@@ -23,7 +23,7 @@ To understand the factors that make a password strong, evaluate different passwo
 
 ![Very Weak Password](very%20weak_Password.png)
 
-The password `hira` was found in leaked databases 2,086 times. It is short, contains only lowercase letters, and provides extremely poor security.
+The password `hira` was found in leaked databases **2,137 times**. It is short, contains only lowercase letters, and provides extremely poor security.
 
 ---
 
@@ -31,7 +31,7 @@ The password `hira` was found in leaked databases 2,086 times. It is short, cont
 
 ![Weak Password](weak_Password.png)
 
-The password `hira44` appeared in leaked databases 11 times. Adding digits slightly improves the strength, but the password remains short and predictable.
+The password `hira44` appeared in leaked databases **11 times**. Adding digits slightly improves the strength, but the password remains short and predictable.
 
 ---
 
@@ -39,7 +39,7 @@ The password `hira44` appeared in leaked databases 11 times. Adding digits sligh
 
 ![Medium Password](Medium_Password.png)
 
-The password `Hlra@44` was not found in the tested leaked databases. It contains uppercase letters, symbols, and digits, which improve its strength. However, its short length keeps it at a medium security level.
+The password `Hlra@44` was found in leaked databases **2 times**. It contains uppercase letters, symbols, and digits, which improve its strength. However, its short length keeps it at a medium security level.
 
 ---
 
