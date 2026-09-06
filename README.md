@@ -21,7 +21,7 @@ To understand the factors that make a password strong, evaluate different passwo
 
 ### 1️⃣ Very Weak Password — `hira`
 
-![Very Weak Password](1_very_weak.png)
+![Very Weak Password](very%20weak_Password.png)
 
 The password `hira` was found in leaked databases 2,086 times. It is short, contains only lowercase letters, and provides extremely poor security.
 
@@ -29,7 +29,7 @@ The password `hira` was found in leaked databases 2,086 times. It is short, cont
 
 ### 2️⃣ Weak Password — `hira44`
 
-![Weak Password](2_WEAK.png)
+![Weak Password](weak_Password.png)
 
 The password `hira44` appeared in leaked databases 11 times. Adding digits slightly improves the strength, but the password remains short and predictable.
 
@@ -37,7 +37,7 @@ The password `hira44` appeared in leaked databases 11 times. Adding digits sligh
 
 ### 3️⃣ Medium Password — `Hlra@44`
 
-![Medium Password](3_MEDIUM.png)
+![Medium Password](Medium_Password.png)
 
 The password `Hlra@44` was not found in the tested leaked databases. It contains uppercase letters, symbols, and digits, which improve its strength. However, its short length keeps it at a medium security level.
 
@@ -45,7 +45,7 @@ The password `Hlra@44` was not found in the tested leaked databases. It contains
 
 ### 4️⃣ Strong Password — `Hira_hi_@look#44`
 
-![Strong Password](4_STRONG.png)
+![Strong Password](Strong_Password.png)
 
 The password `Hira_hi_@look#44` was not found in the tested leaked databases. Its longer length and combination of uppercase and lowercase letters, numbers, and symbols make it considerably stronger.
 
@@ -114,10 +114,10 @@ MFA provides an additional layer of account protection through methods such as:
 Password-Strength-Evaluation/
 │
 ├── README.md
-├── 1_very_weak.png
-├── 2_WEAK.png
-├── 3_MEDIUM.png
-└── 4_STRONG.png
+├── very weak_Password.png
+├── weak_Password.png
+├── Medium_Password.png
+└── Strong_Password.png
 ```
 
 ---
